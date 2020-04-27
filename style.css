@@ -1,3 +1,28 @@
-ul:hover{
+div{
+  width: 50%;
+  height: 500px;
+  margin: auto;
+  display: table;
+
+  background-color: navajowhite;
+}
+
+.innerbox{
+  width: 80%;
+  height: 80%;
+  margin: auto;
+  display: table;
+  margin-top: 50px;
+
+  background-color: lightgray;
+}
+
+
+li:hover{
     color: gray;
     }
+
+
+.line {
+  text-decoration: line-through;
+}
